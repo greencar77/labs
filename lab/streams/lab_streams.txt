@@ -1,10 +1,12 @@
 Use initial/streams project as a source.
 
+Implement solution as Maven project.
+
 Use java 8 streams to implement solution.
 
 Tasks
 =====
 
-1) For a given class domain, calculate average salary.
+1) For a given class domain, calculate average salary. Result of type int.
 
 2) categorize persons by age - produce Map<Integer, List<Person>> where key is age.
