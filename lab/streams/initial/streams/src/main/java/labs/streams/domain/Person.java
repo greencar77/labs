@@ -1,14 +1,14 @@
-For a given class domain, calculate average salary using Java 8 streams.
+package labs.streams.domain;
 
-Class domain:
 public class Person {
     private String name;
     private int age;
     private int salary;
 
-    public Person(String name, int age) {
+    public Person(String name, int age, int salary) {
         this.name = name;
         this.age = age;
+        this.salary = salary;
     }
 
     public String getName() {
