@@ -1,4 +1,4 @@
-Use base/java/javalang project as a source.
+Use https://github.com/greencar77/labs/tree/master/base/java/javalang/src/main/java/labs/javalang project as a source.
 
 Tasks
 =====
