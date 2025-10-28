@@ -1,0 +1,38 @@
+swagger: "2.0"
+host: something.com
+basePath: /api
+tags:
+  - name: books
+  - name: authors
+schemes:
+  - https
+definitions:
+  Book:
+    type: object
+    properties:
+      bookId:
+        type: string
+        example: aabbcc123
+        description: Book id
+      title:
+        type: string
+        description: Book title
+      author:
+        description: Author of the book
+        $ref: "#/definitions/Author"
+  Author:
+    type: object
+    properties:
+      id:
+        type: string
+        example: aa12
+        description: Author id
+      firstName:
+        type: string
+        example: Jack
+        description: Author's first name
+      lastName:
+        type: string
+        example: London
+        description: Author's last name
+
