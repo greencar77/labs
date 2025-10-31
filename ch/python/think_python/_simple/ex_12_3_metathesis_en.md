@@ -5,3 +5,5 @@ Two words form a “metathesis pair” if you can transform one into the other b
 Use wordbase https://github.com/AllenDowney/ThinkPython2/blob/master/code/words.txt
 
 Allen B. Downey, Think Python, 2nd ed.
+
+_id:X3PU6D

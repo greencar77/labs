@@ -15,3 +15,5 @@ Tasks
 3) Try to extend Car (a new class named Truck).
 
 4) What toString() outputs from record Car?
+
+_id:8JXY4S

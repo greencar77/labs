@@ -12,3 +12,5 @@ Tasks
 2) Categorize persons by age - produce Map<Integer, List<Person>> where key is age.
 
 3) Try to build your own Stream implementation. Add streaming capability to the Group class. Demonstrate the usage of Group.stream(), for example, filter persons by salary.
+
+_id:LROBVV

@@ -12,3 +12,5 @@ Kā serveri var izmantot https://httpbin.org
             <version>5.5.6</version>
             <scope>test</scope>
         </dependency>
+
+_id:M55OE6
