@@ -8,3 +8,4 @@ Model: [input.yaml](input.yaml)
   - [Swagger Codegen Workflow Integration](https://swagger.io/docs/open-source-tools/swagger-codegen/codegen-v3/workflow-integration/)
   
 _id:8DRNII
+_tag:maven_plugin
