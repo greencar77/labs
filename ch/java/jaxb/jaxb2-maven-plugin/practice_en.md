@@ -5,7 +5,8 @@ xsd: [user.xsd](user.xsd)
 [org.codehaus.mojo/jaxb2-maven-plugin](https://mvnrepository.com/artifact/org.codehaus.mojo/jaxb2-maven-plugin)
 
 Resources:
-- [Guide to JAXB](https://www.baeldung.com/jaxb)  
+- [https://eclipse-ee4j.github.io/jaxb-ri]
+- [Guide to JAXB](https://www.baeldung.com/jaxb)
   
 _id:7DQSC6
 _title:jaxb2-maven-plugin
