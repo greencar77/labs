@@ -5,8 +5,8 @@ Use Java 16 (update pom.xml).
 Resources:
 * https://www.baeldung.com/java-16-new-features#records-jep-395
 
-Tasks
-=====
+Questions
+=
 
 1) Rework Car class to record.
 
