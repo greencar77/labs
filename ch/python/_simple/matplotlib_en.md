@@ -9,6 +9,7 @@ Questions
 5) Add title to the picture
 6) Add grid
 7) Add annotation to the max value with an arrow
+8) Make a graph with filled area (Q0U5)
 
 matplotlib is supported by [Python CodePad](https://play.google.com/store/apps/details?id=com.markodevcic.python_code_pad) mobile application.
 
