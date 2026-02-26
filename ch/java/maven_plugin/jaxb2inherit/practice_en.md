@@ -10,6 +10,10 @@ Steps/Questions
 
 2) How to add 2 interfaces to the same class (QQYQ)?
 
+Resources:
+=
+* https://stackoverflow.com/questions/2916217/jaxb-generated-classes-implement-interface
+
 _id:AM0Q4G
 _title:maven-jaxb23-plugin and interface
 _tag:maven_plugin
