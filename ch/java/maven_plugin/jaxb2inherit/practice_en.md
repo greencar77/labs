@@ -1,4 +1,4 @@
-Use JAXB plugun to generate classes and apply custom interface.
+Use JAXB plugin to generate classes and apply custom interface.
 
 Use plugin [org.jvnet.jaxb2.maven2/maven-jaxb23-plugin](https://mvnrepository.com/artifact/org.jvnet.jaxb2.maven2/maven-jaxb23-plugin).
 
