@@ -16,4 +16,4 @@ Resources:
 
 _id:AM0Q4G
 _title:maven-jaxb23-plugin and interface
-_tag:maven_plugin
+_tag:maven_plugin,jaxb
