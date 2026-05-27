@@ -1,4 +1,4 @@
-Create simple Spring Boot application using Hibernate.
+Create simple Spring Boot application using Spring data JPA and Hibernate.
 Create two tables CUSTOMER and ORDER (be cautious with the naming, "ORDER" is reserved word in SQL).
 
 Steps/Questions
@@ -9,4 +9,4 @@ Steps/Questions
 4) Implement delete
 
 _id:VU740Z
-_title:Spring Hibernate
+_title:Spring Data JPA
