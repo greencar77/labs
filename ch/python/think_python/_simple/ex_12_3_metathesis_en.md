@@ -6,4 +6,5 @@ Use wordbase https://github.com/AllenDowney/ThinkPython2/blob/master/code/words.
 
 Allen B. Downey, Think Python, 2nd ed.
 
+_title:Think Python - exercise 12.3 - Metathesis pair
 _id:X3PU6D
