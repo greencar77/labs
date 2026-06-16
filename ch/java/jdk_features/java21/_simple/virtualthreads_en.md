@@ -11,5 +11,5 @@ Resources
 * [JEP 444](https://openjdk.org/jeps/444)
 * [Baeldung - Difference Between Thread and Virtual Thread in Java](https://www.baeldung.com/java-virtual-thread-vs-thread)
 
-_id:
+_id:BSURUT
 _title:Java virtual threads (Java 21)
