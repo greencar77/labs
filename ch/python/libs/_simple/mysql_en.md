@@ -11,4 +11,5 @@ https://pypi.org/project/mysql-connector-python/
 import mysql.connector
 ```
 
+_title:Python lib - mysql
 _id:LQ7BLR
