@@ -1,3 +1,5 @@
+Try Python 'numpy' lib.
+
 Explore numpy array creation.
 
 1) Create ndarray using `arange()`.
@@ -16,4 +18,4 @@ Resources:
 numpy library is supported by [Python CodePad](https://play.google.com/store/apps/details?id=com.markodevcic.python_code_pad) mobile application.
 
 _id:V8GD3Y
-_title:numpy
+_title:Python lib - numpy
