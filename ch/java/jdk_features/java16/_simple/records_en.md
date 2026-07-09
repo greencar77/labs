@@ -2,18 +2,16 @@ Take https://github.com/greencar77/labs/tree/master/base/java/streams as a base 
 
 Use Java 16 (update pom.xml).
 
-Resources:
-* https://www.baeldung.com/java-16-new-features#records-jep-395
-
-Questions
-=
-
+Steps/Questions
+-
 1) Rework Car class to record.
-
 2) Create new object of Car.
-
 3) Try to extend Car (a new class named Truck).
-
 4) What toString() outputs from record Car?
 
+Resources
+-
+* https://www.baeldung.com/java-16-new-features#records-jep-395
+
 _id:8JXY4S
+_title:Java records
