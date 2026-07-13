@@ -8,5 +8,9 @@ Steps/Questions
 2) HQL
 3) CriteriaBuilder
 
+Resources
+-
+* [sakila db ER](https://dev.mysql.com/doc/workbench/en/wb-documenting-sakila.html)
+
 _id:8U28QN
 _title:Hibernate queries
