@@ -1,11 +1,10 @@
-Use [initial/jwtclient](initial/jwtclient) project as a starting point.
+Demonstrate JWT with SpringBoot.
 
 Implement solution as Maven project.
 
 Steps/Questions
 -
-1) Implement creation of the token.
-2) Implement token decoding.
+1) Try to support two different users.
 
 _id:E0L7XZ
-_title:JWT
+_title:JWT SpringBoot
