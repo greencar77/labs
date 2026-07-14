@@ -6,6 +6,7 @@ Steps/Questions
 -
 1) Try to support two different users. (QVLR)
 2) Capture JWT value from browser network logger and decode it to see what does it carry. (QO32)
+3) Add unit test showing asymmetric key is used in token creation and validation. (QTHQ)
 
 Resources
 -
