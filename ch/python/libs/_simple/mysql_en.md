@@ -13,3 +13,4 @@ import mysql.connector
 
 _title:Python lib - mysql
 _id:LQ7BLR
+_tag:db,db_mysql,sakila
