@@ -8,4 +8,4 @@ Steps/Questions
 
 _id:QWI112
 _title:Postgres sample db
-_tag:db,postgres
+_tag:db,db_postgres
