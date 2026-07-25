@@ -6,3 +6,4 @@ Resources
 
 _id:753K50
 _title:SLF4J Simple
+_tag:javaapi_slf4j
